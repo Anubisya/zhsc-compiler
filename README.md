@@ -154,7 +154,7 @@ contract WenHou {
 
 ## 🌐 在线编译器
 
-访问在线编译器体验：[https://zhsc.manus.space](https://zhsc.manus.space)
+访问在线编译器体验：[https://zhsc.niubiui.com](https://zhsc.niubiui.com)
 
 ## 🏗️ 项目结构
 
@@ -215,8 +215,8 @@ compile_file('input.zhs', 'output.sol', verbose=True)
 
 ## 📮 联系方式
 
-- 项目主页：[https://github.com/yourusername/zhsc-compiler](https://github.com/yourusername/zhsc-compiler)
-- 在线编译器：[https://zhsc.manus.space](https://zhsc.manus.space)
+- 项目主页：[https://github.com/Anubisya/zhsc-compiler](https://github.com/Anubisya/zhsc-compiler)
+- 在线编译器：[https://zhsc.niubiui.com](https://zhsc.niubiui.com)
 
 ---
 
